@@ -1,6 +1,6 @@
 # schemegenerics
 implementation of generic function in scheme inspired by haskell type classes
-schemegenerics.rkt为scheme提供了泛型支持，可以定义generics function
+schemegenerics.rkt为scheme定义类似于commonlisp中generics function(通用函数，不是指泛型)的宏
 灵感来源于haskell的type class
 
 ```
